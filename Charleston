@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<char set="utf-7">
+<title> Charleston </title>
+<style>
+body {
+  background-image: url('https://snipboard.io/taJHGg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+<header style="font-size:100px;text-align:center;"> Charleston </header>
+<p style="background-color:black; color:black;">
